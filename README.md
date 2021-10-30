@@ -10,7 +10,7 @@
 6) Python Programming (The ML verse is gettin stronger!)
  
 
-### Do this Thiunk later Attitute!
+### Do this Thiunk later Attidude!
 
 
 
