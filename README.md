@@ -1,6 +1,6 @@
 ### Hello, I am Kumar Gaurav Phadke! :bike: 
 
-## Interests are:
+## TODO are:
 
 1) Microcontrollers Driver development. 
 2) PCB designing (Hardware skills)
@@ -10,7 +10,7 @@
 6) Python Programming (The ML verse is gettin stronger!)
  
 
-### Do this Thiunk later Attidude!
+### Do this Think later Attitude!
 
 
 
