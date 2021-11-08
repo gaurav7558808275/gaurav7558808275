@@ -9,6 +9,7 @@
 5) RTOS      (Thats a niche skill to have!)
 6) Python Programming (For ML, as this verse has great opportunity )
  
- #Please check my repository
+ # Please check my repository for my work information
+ 
 
 
