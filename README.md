@@ -1,6 +1,6 @@
-### Hello, I am Kumar Gaurav Phadke! :bike: 
+# Hello, I am Kumar Gaurav Phadke! :bike: 
 
-#### Interests
+### Interests
 
 1) Microcontrollers Driver development. 
 2) PCB designing
