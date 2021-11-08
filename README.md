@@ -1,6 +1,6 @@
 ### Hello, I am Kumar Gaurav Phadke! :bike: 
 
-## TODO are:
+#### TODO are:
 
 1) Microcontrollers Driver development. 
 2) PCB designing (Hardware skills)
