@@ -9,7 +9,7 @@
 5) RTOS     
 6) Python Programming 
  
- # Please check my repository for my work information
+ ## Please check my repository for my work information
  
 
 
