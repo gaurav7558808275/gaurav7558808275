@@ -11,7 +11,4 @@
  
  ## Please check my repository for my work information
  
-# Todoist Stats
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
