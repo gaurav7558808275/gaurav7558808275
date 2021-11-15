@@ -2,7 +2,7 @@
 
 ### Interests
 
-1) Microcontrollers Driver development. 
+1) - [ ] Microcontrollers Driver development. 
 2) PCB designing
 3) AUTOSAR   
 4) MATLAB    
